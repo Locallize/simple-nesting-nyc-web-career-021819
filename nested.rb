@@ -113,9 +113,7 @@ def changing_alan
 
 end
 
- changing_alan[:alan_kay][:known_for]
- 
- 
+
 def adding_to_dennis
   
 	programmer_hash = 
